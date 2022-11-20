@@ -1,0 +1,5 @@
+Install all the librairies in requirements:
+!pip install -r requirements.txt 
+
+Automatically send all the librairies name and version to a requirements.txt file:
+!pip freeze > requirements.txt

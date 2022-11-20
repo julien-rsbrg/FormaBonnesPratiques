@@ -1,0 +1,7 @@
+--- # Default config example
+network_layers: 5
+dataset_version: "1.0"
+train_val_test_splits: [0.8, 0.1, 0.1]
+learning_rate: 0.1
+a_value_that_is_useful_somewhere_but_will_never_change: 42
+output_directory: "configs"

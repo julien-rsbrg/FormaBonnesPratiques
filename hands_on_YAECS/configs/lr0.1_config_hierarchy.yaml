@@ -1,0 +1,4 @@
+config_hierarchy:
+- ./configs/default_config.yaml
+- ./configs/experiment_config_1.yaml
+- learning_rate: 0.1

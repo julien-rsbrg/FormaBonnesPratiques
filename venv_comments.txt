@@ -1,0 +1,11 @@
+Install virtualenv:
+!pip install virtualenv 
+
+Create a virtualenv:
+!virtualenv venv_bonnes_pratiques_2
+
+Activate this newly created venv:
+Go to ./venv_bonnes_pratiques_2/Scripts and take the absolute path of a activate* file.
+Put this path in command prompt (cmd in VScode), press enter and "voilà".
+
+You can now install all the packages you want without affecting your main python environment. 

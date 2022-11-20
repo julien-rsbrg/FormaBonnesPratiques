@@ -1,0 +1,4 @@
+--- # Experiment config
+output_directory: "./exp1"
+dataset_version: "1.4"
+learning_rate: 0.05
