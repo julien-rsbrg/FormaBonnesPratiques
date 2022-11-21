@@ -1,0 +1,3 @@
+2022-11-21 14:20:22,426-DEBUG-message example 3
+2022-11-21 14:20:27,555-DEBUG-message example 3
+2022-11-21 14:20:40,023-DEBUG-message example 3

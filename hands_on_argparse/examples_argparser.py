@@ -6,7 +6,7 @@ to go further: https://docs.python.org/fr/3/library/argparse.html#module-argpars
 '''
 # remark : you shall delete the comments once you have understood.
 
-run_example = 1
+run_example = 3
 
 if run_example == 0:
     # import the package

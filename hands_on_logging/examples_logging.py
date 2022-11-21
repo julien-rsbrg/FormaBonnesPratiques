@@ -1,6 +1,6 @@
 import logging
 
-run_example = 3
+run_example = 1
 
 if run_example == 1:
     logging.basicConfig(filename="log.txt", level=logging.DEBUG)

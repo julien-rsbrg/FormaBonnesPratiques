@@ -2,7 +2,7 @@ Install virtualenv:
 !pip install virtualenv 
 
 Create a virtualenv:
-!virtualenv venv_bonnes_pratiques_2
+!virtualenv venv_bonnes_pratiques
 
 Activate this newly created venv:
 Go to ./venv_bonnes_pratiques_2/Scripts and take the absolute path of a activate* file.
