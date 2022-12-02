@@ -2,7 +2,7 @@
 
 L'objectif de ce repo est de donner des exemples concrets sur des outils Python peu utilisés par les étudiant.e.s, si iels ne les cherchent pas. Ces outils Python ainsi que des conseils sur de bonnes pratiques de programmation, seul ou projet de groupe, ont été présentées lors d'une formation avec l'association d'IA de CentraleSupélec Automatants.
 
-![legoImage](images/imageCom.png){width=50%}
+![legoImage](images/imageCom.png)
 
 Dans ce repo, le lecteur ou la lectrice trouvera :
 
