@@ -1,3 +1,0 @@
-2022-11-21 14:20:31,558-DEBUG-message example 3
-2022-11-21 14:21:08,018-DEBUG-message example 2
-DEBUG:root:message example 1
